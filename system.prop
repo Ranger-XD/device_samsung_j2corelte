@@ -1,0 +1,4 @@
+ro.hardware=samsungexynos7570
+ro.chipname=exynos7570
+ro.arch=exynos7570
+ro.sf.lcd_density=320

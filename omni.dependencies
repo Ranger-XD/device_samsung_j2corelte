@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "android_kernel_samsung_j2corelte",
+        "target_path": "kernel/samsung/j2corelte"
+    },
+    {
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung"
+    }
+]
